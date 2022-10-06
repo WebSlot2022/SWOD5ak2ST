@@ -1,0 +1,14 @@
+{
+  "name": "j0SjiZqQSGKwOi1",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "เว็บสล็อตสุดเจ๋งล่าสุดเลยจ้า",
+  "keywords": [
+    "เว็บสล็อตสุดเจ๋งล่าสุดเลยจ้า"
+  ],
+  "repository": "https://github.com/WebSlot2022/SWOD5ak2ST.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
